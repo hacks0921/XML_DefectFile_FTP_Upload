@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<InspectionData>
+  <Glass serial="GLS-20240111-001" type="Type-A" thickness="0.5t" />
+  <Panel id="PNL-01" position="1,1" />
+  <DefectBody>
+    <Defect sequence="1" type="Scratch" x="120" y="45" process="OP-10" />
+    <Defect sequence="2" type="Dent" x="200" y="90" process="OP-10" />
+    <Defect sequence="3" type="Bubble" x="50" y="50" process="OP-20" />
+    <Defect sequence="4" type="Bubble" x="50" y="50" process="OP-20" />
+    <Defect sequence="5" type="Bubble" x="50" y="50" process="OP-20" />
+    <Defect sequence="6" type="Bubble" x="50" y="50" process="OP-20" />
+  </DefectBody>
+</InspectionData>
